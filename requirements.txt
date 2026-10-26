@@ -1,0 +1,2 @@
+# Full experiment environment; install only the package for the lightweight core.
+-e .[experiments]

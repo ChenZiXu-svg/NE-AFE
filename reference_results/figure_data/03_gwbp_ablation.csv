@@ -1,0 +1,21 @@
+plant,scoring,sequential,redundancy,nrmse,selected_count,candidate_count,selection_seconds,stop_reason,split
+Solar 1,mean,True,False,0.065945155678235792,2,105,1.1158771000000343,no_positive_gain,validation
+Solar 1,mean,False,False,0.066033170532211777,4,105,1.2662043999998787,no_positive_gain,validation
+Solar 1,mean,True,True,0.065945155678235792,2,105,1.1263558000000558,no_positive_gain,validation
+Solar 1,mean_variance,True,False,0.072735952436569565,0,105,1.1447551000001113,no_positive_gain,validation
+Solar 1,quantile,True,False,0.072735952436569565,0,105,1.3838095000000976,no_positive_gain,validation
+Solar 2,mean,True,False,0.055429834394578076,12,105,1.5720971999999165,max_features_reached,validation
+Solar 2,mean,False,False,0.05667889183127138,12,105,1.5586101999997481,max_features_reached,validation
+Solar 2,mean,True,True,0.057585020130633456,5,105,1.100505799999155,no_positive_gain,validation
+Solar 2,mean_variance,True,False,0.055609575197250134,11,105,1.5811951999994562,no_positive_gain,validation
+Solar 2,quantile,True,False,0.055139308323021809,11,105,1.5847272999999404,no_positive_gain,validation
+Wind 1,mean,True,False,0.078895228838113771,12,108,1.8082642999997915,max_features_reached,validation
+Wind 1,mean,False,False,0.079267595730222656,12,108,1.5948754000000918,max_features_reached,validation
+Wind 1,mean,True,True,0.078747830178804601,5,108,1.4520194000006086,no_positive_gain,validation
+Wind 1,mean_variance,True,False,0.078624393817448485,7,108,1.7060087999998359,no_positive_gain,validation
+Wind 1,quantile,True,False,0.078887196945118518,4,108,1.4461639000001014,no_positive_gain,validation
+Wind 2,mean,True,False,0.082236416403757312,10,108,1.7189697000003434,no_positive_gain,validation
+Wind 2,mean,False,False,0.083630650575191673,12,108,1.7929406000002928,max_features_reached,validation
+Wind 2,mean,True,True,0.08350124378540752,4,108,1.3879131000003326,no_positive_gain,validation
+Wind 2,mean_variance,True,False,0.083733889228498226,6,108,1.5926896999999371,no_positive_gain,validation
+Wind 2,quantile,True,False,0.084782433041338853,2,108,1.3405797000004895,no_positive_gain,validation

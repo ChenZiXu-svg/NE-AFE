@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+message: "If you use this software, cite the version or commit used and the associated paper when available."
+type: software
+title: "NE-AFE: Domain-guided automated feature engineering for variable renewable energy forecasting"
+authors:
+  - name: "NE-AFE contributors"
+version: 2.0.0
+date-released: 2026-10-26
+license: MIT
+keywords:
+  - automated feature engineering
+  - variable renewable energy forecasting
+  - temporal feature selection
+  - wind power
+  - photovoltaic power
+repository-code: "https://github.com/ChenZiXu-svg/NE-AFE"
+url: "https://github.com/ChenZiXu-svg/NE-AFE"
