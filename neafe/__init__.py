@@ -1,4 +1,4 @@
-"""Leakage-safe NE-AFE v2 research implementation."""
+"""Leakage-safe NE-AFE implementation."""
 
 from importlib import import_module
 

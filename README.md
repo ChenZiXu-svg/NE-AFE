@@ -13,6 +13,6 @@ python example.py
 
 `example.py` demonstrates candidate construction, feature selection and Ridge forecasting on a synthetic time series. Replace the example data with your own chronologically ordered inputs and target.
 
-Implementation: `neafe_v2/pafa.py` (feature expansion), `neafe_v2/gwbp.py` (feature selection).
+Implementation: `neafe/pafa.py` (feature expansion), `neafe/gwbp.py` (feature selection).
 
 MIT License.

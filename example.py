@@ -5,7 +5,7 @@ from sklearn.impute import SimpleImputer
 from sklearn.linear_model import Ridge
 from sklearn.pipeline import make_pipeline
 from sklearn.preprocessing import StandardScaler
-from neafe_v2 import PAFAConfig, PAFAFeatureGenerator, GWBPConfig, GWBPSelector
+from neafe import PAFAConfig, PAFAFeatureGenerator, GWBPConfig, GWBPSelector
 
 # Synthetic inputs and a strictly historical power lag.
 rng = np.random.default_rng(42)
